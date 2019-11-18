@@ -1,9 +1,12 @@
 [submodule "build-infra"]
 	path = build-infra
-	url = git@github.com:Metaswitch/clearwater-build-infra.git
+	url = git@github.com:InfiCell/clearwater-build-infra.git
+    branch = master
 [submodule "common"]
 	path = common
-	url = git@github.com:Metaswitch/python-common.git
+	url = git@github.com:InfiCell/python-common.git
+    branch = master
 [submodule "src/clearwater_etcd_plugins"]
 	path = src/clearwater_etcd_plugins
-	url = git@github.com:Metaswitch/clearwater-etcd-plugins.git
+	url = git@github.com:InfiCell/clearwater-etcd-plugins.git
+    branch = master

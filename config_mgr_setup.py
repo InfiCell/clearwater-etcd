@@ -25,8 +25,6 @@ setup(
     test_suite='metaswitch.clearwater.config_manager.test',
     install_requires=[
         "clearwater_etcd_shared",
-        "metaswitchcommon",
-        "nsenter",
         "requests",
         "jsonschema"],
     tests_require=[
